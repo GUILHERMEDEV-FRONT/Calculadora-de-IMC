@@ -2,16 +2,9 @@
 Um sistema simples e eficaz para calcular o Índice de Massa Corporal (IMC), fornecendo uma avaliação rápida da sua categoria de peso.
 
 O que é o IMC?
-O Índice de Massa Corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. Ele é calculado dividindo o peso do indivíduo (em quilogramas) pela altura (em metros) elevada ao quadrado (
+O Índice de Massa Corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. 
 
-IMC= 
-Altura 
-2
- 
-Peso
-​
- 
-).
+Ele é calculado dividindo o peso do indivíduo (em quilogramas) pela altura (em metros) elevada ao quadrado 
 
 🚀 Funcionalidades
 Cálculo Preciso: Calcula o IMC com base no peso e altura fornecidos.
